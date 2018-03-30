@@ -1,6 +1,9 @@
+# DCI_P3 Color Mode For OP3T - A Magisk Module
+
 为一加3T开机自动设置颜色模式为 DCI-P3 。
 
 只可用于 Samsung S6E3FA5 的屏幕，理论上一加5发布后更新的一加3T系统（H2OS和OOS）都可使用。之前的系统请自行测试。
 
-## v1.0
+## 更新日志
+### v1.0
   - 初始版本
