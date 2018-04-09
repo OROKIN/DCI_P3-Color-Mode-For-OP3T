@@ -5,4 +5,5 @@ MODDIR=${0%/*}
 
 # This script will be executed in late_start service mode
 # More info in the main Magisk thread
+sleep 30
 settings put system screen_color_mode_settings_value 4
